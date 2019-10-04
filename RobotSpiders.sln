@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotSpiders", "RobotSpiders\RobotSpiders.csproj", "{1C9241BC-A0BD-4B8F-8FE4-1BFD0803C7D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotSpiders.Test", "RobotSpiders.Test\RobotSpiders.Test.csproj", "{89EB1121-66B4-4AF9-A937-58469DCB9E3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C9241BC-A0BD-4B8F-8FE4-1BFD0803C7D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9241BC-A0BD-4B8F-8FE4-1BFD0803C7D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9241BC-A0BD-4B8F-8FE4-1BFD0803C7D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9241BC-A0BD-4B8F-8FE4-1BFD0803C7D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89EB1121-66B4-4AF9-A937-58469DCB9E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EB1121-66B4-4AF9-A937-58469DCB9E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EB1121-66B4-4AF9-A937-58469DCB9E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EB1121-66B4-4AF9-A937-58469DCB9E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22171A2C-394A-46A7-9435-F2CC200EFFD1}
+	EndGlobalSection
+EndGlobal
